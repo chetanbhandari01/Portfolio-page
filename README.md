@@ -1,4 +1,4 @@
-# Chetan Bhandari - AI Developer Portfolio
+# Chetan Bhandari - Portfolio 
 
 A premium, modern developer portfolio website built with React, Vite, Tailwind CSS, and Framer Motion. Featuring a sleek design with smooth animations, glassmorphism effects, and a focus on AI/ML projects.
 
@@ -173,5 +173,3 @@ This project is open source and available under the MIT License.
 - **LinkedIn**: https://linkedin.com
 
 ---
-
-Built with ❤️ by Chetan Bhandari
