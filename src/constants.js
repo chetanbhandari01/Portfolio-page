@@ -50,7 +50,7 @@ export const PROJECTS = [
     description: 'Developed an AI-powered stock market prediction system using machine learning and LSTM models to analyze historical stock data and predict future trends.',
     features: ['LSTM prediction model', 'OHLCV preprocessing', 'Data normalization', 'Trend visualization', 'Predictive analytics', 'Time-series forecasting'],
     tech: ['Python', 'TensorFlow', 'Pandas', 'NumPy'],
-    github: 'https://github.com',
+    github: 'https://github.com/chetanbhandari01/Stock-Price-Prediction',
     live: 'https://demo.com',
     icon: '📈',
   },
