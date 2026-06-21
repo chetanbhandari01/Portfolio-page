@@ -5,7 +5,7 @@ import { Download, Eye } from 'lucide-react'
 export default function Resume() {
   const handleDownloadResume = () => {
     const link = document.createElement('a')
-    link.href = '/resumechetan(1).pdf'
+    link.href = '/Chetan_Bhandari_Resume.pdf'
     link.download = 'Chetan_Bhandari_Resume.pdf'
     document.body.appendChild(link)
     link.click()
@@ -143,7 +143,7 @@ export default function Resume() {
               </motion.button>
 
               <motion.a
-                href="/resumechetan(1).pdf"
+                href="/Chetan_Bhandari_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full flex items-center justify-center gap-3 px-6 py-4 rounded-lg border-2 border-gray-300 dark:border-gray-600 text-gray-900 dark:text-white font-semibold hover:bg-gray-50 dark:hover:bg-gray-900 transition-all smooth-hover"
